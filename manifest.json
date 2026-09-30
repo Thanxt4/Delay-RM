@@ -1,0 +1,17 @@
+{
+  "name": "RM Delay — ห้องเย็น",
+  "short_name": "RM Delay",
+  "description": "สแกนสลิปวัตถุดิบ ดูกำหนด Delay เข้าห้องเย็น-ออกห้องเย็น แจ้ง Delay พร้อมรูป และดูภาพรวมรายวัน",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f6",
+  "theme_color": "#1d3557",
+  "lang": "th",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
