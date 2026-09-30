@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+pillow>=10.0
+numpy>=1.24
+cryptography>=42.0
+# OCR (ถ้าเครื่องมี PaddleOCR อยู่แล้วจากเครื่องมือเทียบฉลาก ใช้ตัวเดิมได้)
+paddlepaddle>=3.0.0
+paddleocr>=3.1.0
